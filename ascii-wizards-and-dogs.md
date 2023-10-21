@@ -1,5 +1,7 @@
+---
 title: Wizards and Dogs
 date:  21 Oct 2023
+ai:    ChatGPT-3.5
 ---
 
 Default (GPT-3.5)
