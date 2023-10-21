@@ -1,3 +1,7 @@
+title: Wizards and Dogs
+date:  21 Oct 2023
+---
+
 Default (GPT-3.5)
 
 _User_
