@@ -8,3 +8,4 @@
 - [Edgar Allen Poe's Chicken Tacos](chicken-tacos-poe.md)
 - [Gabriel Garcia Marquez's Chicken Tacos](chicken-tacos-marquez.md)
 - [Robot Dinosaurs](robot-dinosaurs.md)
+- [Robot Dinosaurs and Bathtubs](robot-dinosaurs-bathtubs.md)
