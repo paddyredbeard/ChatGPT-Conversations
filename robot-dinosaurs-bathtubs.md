@@ -1,6 +1,6 @@
 ---
 title: Robot Dinosaurs and Bathtubs
-date:  dd Month 2023
+date:  21 Oct 2023
 ai:    ChatGPT-3.5
 ---
 
