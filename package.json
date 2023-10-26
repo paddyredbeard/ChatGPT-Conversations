@@ -1,0 +1,14 @@
+{
+  "name": "ai-adventures",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Patrick J Barabe",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "description": "Adventures in AI",
+  "scripts": {
+    "predev": "rm -rf dist",
+    "dev": "npx @11ty/eleventy --serve --input=src --output=dist --formats=html,njk,gif,ico,md,png,jpg,webp,css,js",
+    "prebuild": "rm -rf dist",
+    "build": "npx @11ty/eleventy --input=src --output=dist --formats=html,njk,gif,ico,md,png,jpg,webp,css,js"
+  }
+}
