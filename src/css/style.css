@@ -23,12 +23,13 @@ body {
 .wrapper {
 	margin: 0 auto;
   margin-bottom: 6rem;
-  max-width: 50%;
+  max-width: 90%;
 }
 
 body pre:first-child {
   width: 100%;
-  font-size: 1.6rem;
+  font-size: 1rem;
+  white-space: pre-wrap;
 }
 
 code {
@@ -89,5 +90,17 @@ footer code {
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .wrapper {
+    max-width: 50%;
+  }
+
+  body pre:first-child {
+    width: 100%;
+    font-size: 1.6rem;
+    overflow-wrap: normal;
   }
 }
