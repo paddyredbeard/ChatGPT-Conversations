@@ -2,7 +2,7 @@
   "name": "ai-adventures",
   "private": true,
   "version": "1.0.0",
-  "author": "Patrick J Barabe",
+  "author": "Patrick J Barabe <pddyrdbrd@proton.me>",
   "license": "SEE LICENSE IN LICENSE.txt",
   "description": "Adventures in AI",
   "scripts": {

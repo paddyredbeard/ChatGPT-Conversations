@@ -68,6 +68,11 @@ footer {
   font-size: 1rem;
 }
 
+footer a {
+  color: #908d8d;
+  text-decoration: none;
+}
+
 footer code {
   color: #908d8d;
 }
