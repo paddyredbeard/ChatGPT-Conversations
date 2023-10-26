@@ -45,6 +45,10 @@ a,
 a:visited,
 a[href] {
   color: #61dafb;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
 
 #site {
