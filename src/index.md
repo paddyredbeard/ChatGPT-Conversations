@@ -12,7 +12,8 @@ In which I discuss matters of little importance with robots
 ## 25 Oct 2023
 
 - [William Burroughs' Ham and Cheese Sandwich](ham-and-cheese-burroughs/)
-- [Hunter S Thompson's Ham and Cheese Sandwich](ham-and-cheese-thompson/)
+- [Hunter S Thompson's Ham and Cheese Sandwich - 1st Attempt](ham-and-cheese-thompson-1/)
+- [Hunter S Thompson's Ham and Cheese Sandwich - 2nd Attempt](ham-and-cheese-thompson-2/)
 
 ## 21 Oct 2023
 
