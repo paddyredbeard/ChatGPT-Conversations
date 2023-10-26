@@ -9,6 +9,11 @@ title: index
 
 In which I discuss matters of little importance with robots
 
+## 25 Oct 2023
+
+- [William Burroughs' Ham and Cheese Sandwich](ham-and-cheese-burroughs/)
+- [Hunter S Thompson's Ham and Cheese Sandwich](ham-and-cheese-thompson/)
+
 ## 21 Oct 2023
 
 - [ASCII Art - Wizards and Dogs](ascii-wizards-and-dogs/)
