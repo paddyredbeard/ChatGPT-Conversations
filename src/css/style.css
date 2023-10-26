@@ -1,0 +1,88 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+	padding: 0;
+  margin: 0;
+}
+
+html{
+	overflow-y: scroll;
+}
+
+body {
+  background-color: #222222;
+	color: #ccffcc;
+	font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 1.25rem;
+}
+
+.wrapper {
+	margin: 0 auto;
+  margin-bottom: 6rem;
+  max-width: 50%;
+}
+
+body pre:first-child {
+  width: 100%;
+  font-size: 1.6rem;
+}
+
+code {
+  color: #ccccff;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+blockquote {
+	color: #ccffcc;
+}
+
+a,
+a:visited,
+a[href] {
+  color: #61dafb;
+}
+
+#site {
+  text-align: center;
+}
+
+.logo {
+  margin: 2rem;
+  pointer-events: none;
+  width: 100px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 1em;
+  text-align: center;
+  background-color: #111111;
+  color: #908d8d;
+  font-size: 1rem;
+}
+
+footer code {
+  color: #908d8d;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo {
+    animation: logo-spin infinite 5s linear;
+  }
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

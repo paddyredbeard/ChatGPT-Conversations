@@ -1,8 +1,12 @@
 ---
-title: Ernest Hemingway's Chicken Tacos
-date:  21 Oct 2023
-ai:    ChatGPT-3.5
+layout: layouts/base.njk
 ---
+
+```
+title: Ernest Hemingway's Chicken Tacos
+ date: 2023-10-21
+   ai: ChatGPT-3.5
+```
 
 Default (GPT-3.5)
 

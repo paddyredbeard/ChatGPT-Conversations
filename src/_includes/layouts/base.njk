@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ site.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+
+    <title>{{ title }} | {{ site.name }}</title>
+
+    <base href="/ai-adventures/">
+    <link rel="stylesheet" href="{{ 'css/style.css' | url }}">
+
+  </head>
+
+  <body>
+    <div class="wrapper">
+      {{ content | safe }}
+    </div>
+
+    <footer>
+      : Copyright &copy; 2023
+      : <a href="{{ '.' | url }}">Back To Index</a>
+      : <code>[o,o]</code> :
+    </footer>
+
+    <script src="{{ 'js/scripts.js' | url }}"></script>
+  </body>
+</html>

@@ -1,8 +1,12 @@
 ---
-title: Wizards and Dogs
-date:  21 Oct 2023
-ai:    ChatGPT-3.5
+layout: layouts/base.njk
 ---
+
+```
+title: Wizards and Dogs
+ date: 2023-10-21
+   ai: ChatGPT-3.5
+```
 
 Default (GPT-3.5)
 

@@ -1,8 +1,12 @@
 ---
-title: Edgar Allen Poe's Chicken Tacos
-date:  21 October 2023
-ai:    ChatGPT-3.5
+layout: layouts/base.njk
 ---
+
+```
+title: Edgar Allen Poe's Chicken Tacos
+ date: 2023-10-21
+   ai: ChatGPT-3.5
+```
 
 Default (GPT-3.5)
 

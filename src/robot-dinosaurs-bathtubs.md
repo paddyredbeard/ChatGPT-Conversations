@@ -1,8 +1,12 @@
 ---
-title: Robot Dinosaurs and Bathtubs
-date:  21 Oct 2023
-ai:    ChatGPT-3.5
+layout: layouts/base.njk
 ---
+
+```
+title: Robot Dinosaurs and Bathtubs
+ date: 2023-10-21
+   ai: ChatGPT-3.5
+```
 
 Default (GPT-3.5)
 
